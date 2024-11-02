@@ -1,0 +1,2 @@
+# HTML-CSS-Assignments
+ This portfolio highlights my web development skills using HTML and CSS. The About Me section details my background and passion for coding. The Contact Me page includes a form for visitors to easily reach out. On the Home Page, I provide a brief overview of HTML and CSS, showcasing their significance in web design. This portfolio reflects my commitment to continuous learning in the field.
