@@ -1,0 +1,56 @@
+@media only screen and (max-width: 450px){
+     nav{
+         display: flex;
+         height: 14vh;
+        }.logo img{
+            width: 100px;
+            margin-top: 33px;
+        }
+        nav ul{
+        display: flex;
+        position: relative;
+        right: 28px;
+        margin-top: 16px;
+        font-size: initial;
+    }
+    .login{
+    display: flex;
+   position: absolute;
+   left: 142px;
+    bottom: 49px;
+   }
+   .container{
+    height: 108vh;
+   }
+   .links{
+    position: absolute;
+    left: 33px;
+    top: 957px;
+   }
+   .social{
+    height: 57vh;
+  display: flex;
+  align-items: end;
+  flex-direction: row-reverse;
+  gap: 35px;
+  left: 226px;
+  position: absolute;
+  top: 734px;
+   }
+   .box-1{
+    background-color: aqua;
+    padding: 0px 44px;
+    width: 80%;
+   }
+   .box-2{
+    background-color:aquamarine;
+    padding: 0px 44px;
+    width: 80%;
+   }
+   button{
+    height: 7vh;
+  width: 14vw;
+  position: relative;
+  left: 208px;
+   }
+}

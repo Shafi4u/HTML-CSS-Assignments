@@ -1,0 +1,79 @@
+ul a:hover{
+   color: rgb(5, 5, 164);
+   background-color: aliceblue;
+   transform: scale(1.7);
+   transition: color 0.3s ease, transform 0.3s ease;
+}
+.heading-h1, .heading-h2, .heading-h3{
+   margin: 10px 10px;
+}
+.article, .section-1, .section-2{
+   margin: 10px 10px;
+}
+.article{
+   line-height: 20px;
+}
+main{
+  /* height: calc(100vh - 17vh); */
+}
+section{
+   margin: 10px;
+}
+.skills{
+   margin: 20px;
+}
+aside{
+   background-color: antiquewhite;
+   color: black;
+   /* float:right; */
+   border-radius: 100px;
+   overflow: hidden;
+   display: flex;
+   align-items: center;
+   padding: 20px;
+   margin: 20px; 
+}
+.form-heading{
+   text-align: center;
+   margin: 20px;
+ text-decoration: underline;
+ font-size: xx-large;
+}
+.container-1{
+      display: flex;
+      justify-content: center;
+      align-items: last baseline;
+      line-height: 24px;
+     
+    }
+    label{
+      font-size: 20px;
+      font-style: italic;
+      font-weight: bolder;
+      margin-right: 20px;
+    }
+    input{
+      width: 30vw;
+  height: 10vh;
+  border-color: rgb(0, 110, 255);
+    }
+    #pass{
+      width: 30vw;
+      position: relative;
+  right: 32px;
+    }
+    .pass{
+      position: relative;
+  right: 32px;
+
+    }
+  button{
+   height: 10vh;
+   width: 9vw;
+   background: rgb(0, 110, 255);
+   position: relative;
+   left: 350px;
+   border-radius: 10px;
+   color: aliceblue;
+   margin-bottom: 5px;
+  }
